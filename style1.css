@@ -9,3 +9,37 @@ p {
 	color: black;
 	
 }
+
+div{
+	
+		
+}
+
+foo{
+	color: blue;
+}
+
+
+#hello {
+	
+	font-size: 28px;
+}
+
+#div1{
+	
+	background-color: teal;
+    width: 500px;
+    height: 400px;
+}
+
+#border_id1{
+	border: 5px dotted purple;
+	
+}
+
+#back_id{
+	
+	background-color: teal;
+    width: 500px;
+    height: 200px;
+}
